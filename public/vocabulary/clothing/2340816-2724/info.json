@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Emerson Albornoz Suárez",
+    "profileImage": "https://static.wikia.nocookie.net/khanacademy/images/5/5a/Winston1.png/revision/latest?cb=20150706174955",
+    "socialLink": "@emerson_albornoz"
+  },
+  "words": [
+    { "id": 1, "en": "vest", "es": "chaleco" },
+    { "id": 2, "en": "glasses", "es": "gafas" },
+    { "id": 3, "en": "cardigan", "es": "cárdigan" },
+    { "id": 4, "en": "blouse", "es": "blusa" }
+  ]
+}
