@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Juan Manjarrez",
+    "profileImage": "https://avatars.githubusercontent.com/u/128485718?v=4&size=64",
+    "socialLink": "@migueel_mz"
+  },
+  "words": [
+    { "id": 1, "en": "socks", "es": "medias" },
+    { "id": 2, "en": "sweater", "es": "suéter" },
+    { "id": 3, "en": "gloves", "es": "guantes" },
+    { "id": 4, "en": "coat", "es": "abrigo" }
+  ]
+}
