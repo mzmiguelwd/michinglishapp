@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Laura Celeste Berrio",
+    "profileImage": "https://thumbs.dreamstime.com/b/presentaci%C3%B3n-de-la-familia-de-cuatro-miembros-74330611.jpg",
+    "socialLink": "@laurace"
+  },
+  "words": [
+    { "id": 1, "en": "mother in law", "es": "suegra" },
+    { "id": 2, "en": "father in law", "es": "suegro" },
+    { "id": 3, "en": "nephew", "es": "sobrino" },
+    { "id": 4, "en": "niece", "es": "sobrina" }
+  ]
+}
